@@ -60,4 +60,9 @@ Make sure everyone in the group is available at this time and that you have a wa
 
 Sunday,Nov 2 through zoom
 
+1. We will use zoom and messengers to commmunitcate.
+2. We will meet once every two weeks sometime on Sunday.
+3. To make sure everyone is contributing, we will address any issues during our meeting on Sunday.
+4. Answer the given question as comprehensively while being realistic?
+
 <!-- #endregion -->
