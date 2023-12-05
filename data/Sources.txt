@@ -1,0 +1,11 @@
+Sources:
+
+taxi_tripdata.csv from https://www.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc/
+
+trip_data_dictionary.pdf from https://www.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc/
+
+taxi+_zone_lookup.csv from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+taxi_zones.csv from https://catalog.data.gov/dataset/nyc-taxi-zones/resource/420d5aec-435f-4f78-90ce-d109a6a41d0f
+
+MTA_NYCT_Subway_Entrances_and_Exits__2015.csv from https://data.ny.gov/widgets/i9wp-a4ja
