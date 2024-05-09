@@ -1,14 +1,8 @@
-# CMSE202-Project
-
-
-Project Group : NYC Traffic Flow
-
+# NYC Traffic Analysis
 
 Group members : Vibu Darshan, Yogit Goyal,Thong Van,Connor Croft
 
 ---
-
-# NYC Traffic Analysis Project
 
 ## Overview
 
